@@ -28,7 +28,7 @@ Linjära ekvationssystem
 
 ## Exercises & solutions :running:
 
-- [Linjära ekvationssystem - uppgifter samt facit](https://github.com/aleylani/Linear-Algebra-AI24/blob/main/exercises/linj%C3%A4ra%20ekvationssystem%20-%20%C3%B6vningsuppgifter%20och%20svar.pdf)
+- [Linjära ekvationssystem - uppgifter samt facit](https://github.com/aleylani/Linear-Algebra-AI25/blob/main/exercises/linj%C3%A4ra%20ekvationssystem%20-%20%C3%B6vningsuppgifter%20och%20svar.pdf)
 
 ## More challangeing exercises & solutions
 
